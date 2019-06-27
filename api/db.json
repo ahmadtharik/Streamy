@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Informative Stream for New Players",
+      "description": "Welcome to my stream, I stream everything",
+      "id": 2
+    },
+    {
+      "title": "Streaming Everyday",
+      "description": "Streaming everyday, 189 days left",
+      "id": 3
+    },
+    {
+      "title": "25 hour charity grind",
+      "description": "watch me fall asleep and still win!",
+      "userId": "108706577282379364900",
+      "id": 4
+    }
+  ]
+}

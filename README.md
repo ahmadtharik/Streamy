@@ -11,14 +11,7 @@ Requires OBS or equivalent live streaming software.
 >git clone https://github.com/ahmadtharik/Streamy.git
 
 
-### Starting App
 
-```
-> cd Streamy
-> cd client
-> npm start
-Open http://localhost:3000 to view it in the browser.
-```
 
 
 ### Starting API
@@ -32,6 +25,15 @@ Open http://localhost:3000 to view it in the browser.
 ```
 > cd rtmpserver
 > npm start
+```
+
+### Starting App
+
+```
+> cd Streamy
+> cd client
+> npm start
+Open http://localhost:3000 to view it in the browser.
 ```
 
 ### OBS Setup

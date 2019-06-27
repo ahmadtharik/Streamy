@@ -17,6 +17,7 @@ Requires OBS or equivalent live streaming software.
 > cd Streamy
 > cd client
 > npm start
+http://localhost:3000/
 ```
 
 

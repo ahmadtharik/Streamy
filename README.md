@@ -4,14 +4,14 @@ A live streaming platform that allows users to watch and stream content.
 Made using Node.js, React with Redux, Redux-Thunk, Redux-Form, Lodash, axios, flv.js, React-Router-Dom,HTML,CSS with semantic-ui, Google API- OAuth 2.0, and Javascript
  A web application project from the Udemy course - https://www.udemy.com/react-redux/
 
-####Usage
+## Usage
 
 Requires OBS or equivalent live streaming software.
 
 >git clone https://github.com/ahmadtharik/Streamy.git
 
 
-#Starting App
+### Starting App
 
 ```
 > cd Streamy
@@ -20,19 +20,26 @@ Requires OBS or equivalent live streaming software.
 ```
 
 
-#Starting API
+### Starting API
 ```
 > cd api
 > npm start
 ```
 
 
-Starting RTMPServer
+### Starting RTMPServer
 ```
 > cd rtmpserver
 > npm start
 ```
 
+### OBS Setup
+
+```
+> Stream Service - Custom
+> Server - rtmp://localhost/live
+> Stream Key - Stream ID
+```
 
 
 
